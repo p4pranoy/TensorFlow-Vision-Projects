@@ -26,6 +26,7 @@ numpy (often a dependency of other libraries)
 You can install TensorFlow via pip:
 
 Bash
+
 pip install tensorflow
 
 How to Run
@@ -37,6 +38,7 @@ How to Run
 3. Open the notebook using Jupyter:
 
 Bash
+
 jupyter notebook "TensorFlow Vision Projects.ipynb"
 
 4. Execute the cells sequentially to train and experiment with the model.
